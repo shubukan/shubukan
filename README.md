@@ -2,8 +2,9 @@
 こ ん に ち は
 </h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0ef747e8-1fa3-46ab-9ccc-c8004a99cd56" width="110">
-<!--   <img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&width=435&lines=Hi,+I'm+Tathatha+Mishra;I'm+a+Web+Developer"> -->
+  <img src="https://github.com/user-attachments/assets/3deb4d81-6e0e-4391-8822-87f0c3991b48" height="180">
+  <img src="https://github.com/user-attachments/assets/46776b62-6dbb-4edd-800a-466294aab642" height="180">
+  <img src="https://github.com/user-attachments/assets/775baf7a-9ecc-4d5b-a787-b44edd5840a2" height="180">
 </div>
 
 <p align="center" font="Outfit">
